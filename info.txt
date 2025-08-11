@@ -1,0 +1,22 @@
+html - HyperText Markup language 
+
+Tag: 
+    opening tag: <Hello>
+    closing tag: </Hello>
+
+Element: <Hello> Hello World ! </Hello>
+<!DOCTYPE html> => Defines the document type as html 
+
+
+
+
+css - Cascading Style Sheets
+
+-> There are 3 ways to add styling to the HTML Elements
+    1. Inline css
+    2. Internal css
+    3. External css 
+
+-> There are 2 selectors in css: 
+    1. class -> Access via '.', Multiple Elements can have same class name
+    2. id -> Access via '#', ID will be unique 
