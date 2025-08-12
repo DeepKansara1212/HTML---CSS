@@ -7,6 +7,15 @@ Tag:
 Element: <Hello> Hello World ! </Hello>
 <!DOCTYPE html> => Defines the document type as html 
 
+=> There are 2 types of Elements in HTML
+    1. Inline Element -> span, img
+    2. Block-Level Element -> h1-h6, div, p
+
+
+=> Lists: Group of related items
+    1. Unordered Lists
+    2. Ordered Lists
+    3. Descriptive Lists
 
 
 

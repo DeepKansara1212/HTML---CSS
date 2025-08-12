@@ -1,0 +1,19 @@
+#container {
+    border: 2px solid red;
+    border-radius: 5px;
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: red; */
+
+    /* border-left: 2px solid blue;
+    border-right: 5px solid green;
+    border-top: 10px solid red;
+    border-bottom: 10px solid orange; */
+
+    width: 200px;
+}
+
+#heading {
+    font-size: 20px;
+    text-align: center;
+}
