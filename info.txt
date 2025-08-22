@@ -29,3 +29,8 @@ css - Cascading Style Sheets
 -> There are 2 selectors in css: 
     1. class -> Access via '.', Multiple Elements can have same class name
     2. id -> Access via '#', ID will be unique 
+
+
+-> 2 Properties to create a space in css:
+    1. Margin 
+    2. Padding
