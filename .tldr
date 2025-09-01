@@ -80,9 +80,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 1693.0554149468335,
-			"y": 875.368124049963,
-			"lastActivityTimestamp": 1755842060393,
+			"x": 1766.2764958553491,
+			"y": 704.2146743248568,
+			"lastActivityTimestamp": 1756699991018,
 			"meta": {}
 		},
 		{
@@ -1300,6 +1300,45 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 441.258965421791,
+			"y": 34.13294939343423,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:kNhvLZy56muaW0w1pYgby",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 128.6875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Box Model"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:mCmUp2E3pWVSBL2HI3Aej",
+			"index": "aP7J5",
+			"typeName": "shape"
+		},
+		{
 			"meta": {},
 			"id": "page:L5IAxWILVSxWy3GsW90Dr",
 			"name": "Page 2",
@@ -1936,9 +1975,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -664.1084947645355,
-			"y": -352.7121681216048,
-			"z": 0.6517991101940391,
+			"x": -823.0770299072547,
+			"y": -261.9005923260229,
+			"z": 0.6601643761384243,
 			"meta": {},
 			"id": "camera:page:mCmUp2E3pWVSBL2HI3Aej",
 			"typeName": "camera"
@@ -2357,13 +2396,7 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:geo": "rectangle",
-				"tldraw:color": "blue",
-				"tldraw:size": "m",
-				"tldraw:dash": "draw",
-				"tldraw:fill": "none"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -2720,8 +2753,8 @@
 			"typeName": "binding"
 		},
 		{
-			"x": 1604.239710873668,
-			"y": 537.1770323795138,
+			"x": 1603.2298305532263,
+			"y": 560.4035401138028,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
