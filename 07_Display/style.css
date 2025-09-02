@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+#para {
+    display: none;
+    /* visibility: hidden; */
+}
+
+.sidebar {
+    border: 2px solid black;
+    margin: 50px;
+    display: inline-block;
+}
+
+.main-section {
+    border: 2px solid black;
+    margin: 50px;
+    display: inline-block;
+}
