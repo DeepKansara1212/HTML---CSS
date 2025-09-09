@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+#container {
+  border: 2px solid red;
+  margin: 25px;
+}
+
+#img {
+  float: right;
+}
+
+
+#container::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* float property used in the element itself. */
+/* inline-block proeprty used in the element itslef */
+
+/* flex property must used in the parent element */

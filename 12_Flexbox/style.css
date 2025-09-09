@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    height: 500px;
+    width: 1400px;
+    border: 2px solid black;
+
+    /* Center an Element */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    /* Center an Element */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;   
+    gap: 10px;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    /* display: inline-block; */
+}
+
+#box1 {
+    background-color: blanchedalmond;
+}
+
+#box2 {
+    background-color: chartreuse;
+}
+#box3 {
+    background-color: rgb(60, 0, 255);
+}
+#box4 {
+    background-color: rgb(186, 35, 106);
+}
+#box5 {
+    background-color: rgb(180, 210, 10);
+}
+
+.para {
+    font-size: 30px;
+    font-weight: 900;
+    margin: 30px;
+}
