@@ -1,0 +1,29 @@
+#btn {
+    background-color: rgb(95, 187, 95);
+    color: whitesmoke;
+    font-weight: 600;
+    font-size: 15px;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+}
+
+#btn:hover {
+    background-color: rgb(11, 76, 11);
+}
+
+.inp-field:focus {
+    width: 50%;
+}
+
+#google:link {
+    color: blueviolet;
+}
+
+#google:active {
+    color: red;
+}
+
+#google:visited {
+    color: darkseagreen;
+}
