@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+.navbar {
+    /* border: 2px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: darksalmon;
+}
+
+#nav-items {
+    display: flex;
+    list-style-type: none;
+    gap: 25px;
+}
+
+.nav-link {
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.button {
+    padding: 12px 20px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 15px;
+    border: none;
+}
+
+.nav-link:hover {
+    color: blue;
+}
