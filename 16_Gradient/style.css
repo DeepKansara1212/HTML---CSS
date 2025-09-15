@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+#heading {
+    text-align: center;
+    margin: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+    font-size: 50px;
+    text-shadow: 5px 5px 10px rgb(234, 71, 71);
+}
+
+#box {
+    height: 200px;
+    width: 800px;
+    border: 2px solid black;
+    margin: 60px;
+    /* background-color: blanchedalmond; */
+    /* background: linear-gradient(to bottom right, rgb(225, 109, 109), rgb(50, 203, 50), rgb(107, 107, 229)); */
+    background: radial-gradient(circle, rgb(225, 109, 109), rgb(50, 203, 50), rgb(107, 107, 229));
+    box-shadow: 5px 5px 10px rgb(234, 71, 71);
+}
